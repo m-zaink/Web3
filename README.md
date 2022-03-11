@@ -1,6 +1,8 @@
-# White Papers
-A repository containing a link to all the famous Web3 white-papers out there.
+# Web3
+A repository geared at web3 -- future!
 
+## White Papers
+Links to all the famous Web3 white-papers out there.
 
 * [Bitcoin `BTC`](https://bitcoin.org/bitcoin.pdf)
 * [Ethereum `ETH`](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_White_Paper_-_Buterin_2014.pdf)
@@ -18,4 +20,6 @@ A repository containing a link to all the famous Web3 white-papers out there.
 
 
 ## How to contribute?
-If you know of a white-paper that isn't listed here, please add and create a PR. I'd pull it in if it's a valid addition.
+If there are any topics or links or content that you think should go under this repository, create a PR.
+
+I'll be happy to pull in.
