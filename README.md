@@ -18,6 +18,10 @@ Links to all the famous Web3 white-papers out there.
 * [Filecoin `FIL`](https://filecoin.io/filecoin.pdf)
 * [BitTorrent `BTT`](https://www.bittorrent.com/btt/btt-docs/BitTorrent_(BTT)_White_Paper_v0.8.7_Feb_2019.pdf)
 
+## Useful Articles
+Links to all the useful articles around Web3.
+
+* [Blockchain Demystified](https://medium.com/hashthree/blockchain-demystified-d48df7f11e29)
 
 ## How to contribute?
 If there are any topics or links or content that you think should go under this repository, create a PR.
